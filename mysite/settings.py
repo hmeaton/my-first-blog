@@ -124,6 +124,6 @@ LOGIN_REDIRECT_URL = '/'
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'hmeaton2011@gmail.com'
-EMAIL_HOST_PASSWORD = 'OHbanana16'
+EMAIL_HOST_PASSWORD = 'Pumpkin1234'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
